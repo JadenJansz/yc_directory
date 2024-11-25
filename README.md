@@ -37,7 +37,7 @@ Create a new file named `.env.local` in the root of your project and add the fol
 ```env
 NEXT_PUBLIC_SANITY_PROJECT_ID=
 NEXT_PUBLIC_SANITY_DATASET=
-SANITY_TOKEN=
+SANITY_WRITE_TOKEN=
 
 AUTH_SECRET= 
 AUTH_GITHUB_ID=
